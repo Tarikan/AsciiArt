@@ -29,6 +29,7 @@ namespace AsciiArt.Core
 
             Img res = new Img(width,
                 height);
+            //img.Mutate(i => i.Contrast(0.5f));
             if (invert)
             {
                 img.Mutate(i => i.Invert());
