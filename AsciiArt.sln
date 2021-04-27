@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsciiArt.Core", "AsciiArt.Core\AsciiArt.Core.csproj", "{FA8189A1-673D-4F0C-A1EB-F9E6F54C47A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTester", "ConsoleAppTester\ConsoleAppTester.csproj", "{026FC7CB-8F4B-4283-9777-CA0D8BB792ED}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsciiArt.Cli", "AsciiArt.Cli\AsciiArt.Cli.csproj", "{94201A4E-4729-4B1B-8E46-5002573D4C09}"
 EndProject
 Global
@@ -16,10 +14,6 @@ Global
 		{FA8189A1-673D-4F0C-A1EB-F9E6F54C47A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA8189A1-673D-4F0C-A1EB-F9E6F54C47A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA8189A1-673D-4F0C-A1EB-F9E6F54C47A3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{026FC7CB-8F4B-4283-9777-CA0D8BB792ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{026FC7CB-8F4B-4283-9777-CA0D8BB792ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{026FC7CB-8F4B-4283-9777-CA0D8BB792ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{026FC7CB-8F4B-4283-9777-CA0D8BB792ED}.Release|Any CPU.Build.0 = Release|Any CPU
 		{94201A4E-4729-4B1B-8E46-5002573D4C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{94201A4E-4729-4B1B-8E46-5002573D4C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94201A4E-4729-4B1B-8E46-5002573D4C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
